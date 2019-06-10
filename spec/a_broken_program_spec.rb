@@ -1,4 +1,4 @@
-describe 'not a broken program' do
+describe 'not a asdf broken program' do
 
   it 'raise an error when loaded' do
     expect{
