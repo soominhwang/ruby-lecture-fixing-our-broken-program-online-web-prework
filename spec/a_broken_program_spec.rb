@@ -1,4 +1,4 @@
-describe 'Not a broken program' do
+describe 'not a broken program' do
 
   it 'raise an error when loaded' do
     expect{
